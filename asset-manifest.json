@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-expenses-management-replica/static/css/main.80606ee5.css",
+    "main.js": "/react-expenses-management-replica/static/js/main.b5c1dcfd.js",
+    "static/js/787.1a7d5f97.chunk.js": "/react-expenses-management-replica/static/js/787.1a7d5f97.chunk.js",
+    "index.html": "/react-expenses-management-replica/index.html",
+    "main.80606ee5.css.map": "/react-expenses-management-replica/static/css/main.80606ee5.css.map",
+    "main.b5c1dcfd.js.map": "/react-expenses-management-replica/static/js/main.b5c1dcfd.js.map",
+    "787.1a7d5f97.chunk.js.map": "/react-expenses-management-replica/static/js/787.1a7d5f97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80606ee5.css",
+    "static/js/main.b5c1dcfd.js"
+  ]
+}
